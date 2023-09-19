@@ -1,0 +1,18 @@
+.zippy{
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.zippy-heading{
+    padding: 50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.zippy-body{
+    padding: 50px;
+}
+
+.expanded{
+    background-color: grey;
+}
